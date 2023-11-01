@@ -1,4 +1,5 @@
 ![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPhone-1.png)
+
 ![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPhone-2.png)
 
 # About
@@ -30,6 +31,7 @@ The mobile application is designed to support connecting new models of air purif
 ## Supports iPad
 
 ![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPad-1.png)
+
 ![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPad-2.png)
 
 
