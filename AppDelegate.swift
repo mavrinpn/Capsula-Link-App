@@ -5,8 +5,6 @@
 
 import UIKit
 
-var CLOUDCOPY_ALERT = false
-
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
