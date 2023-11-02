@@ -1,12 +1,10 @@
-[![Capsula Youtube](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/youtube.png)](https://www.youtube.com/watch?v=IMMxL6rDj3A)
-
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPhone-1.png)
-
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPhone-2.png)
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/capsula-business.jpg)
 
 # About
 
 Capsula Link is a mobile native application developed with a fully custom design for iOS using Swift language.
+
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPhone-1.png)
 
 The application allows the user to control multiple Capsula air purifiers. It uses the BLE 4.0 protocol to communicate with the devices. The app provides complete two-way communication with the device: reading current readings, managing operation modes, setting the device's schedule, adjusting parameters, and displaying errors.
 
@@ -32,9 +30,11 @@ The mobile application is designed to support connecting new models of air purif
 
 ## Supports iPad
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPad-1.png)
-
 ![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPad-2.png)
+
+## Youtube Video
+
+[![Capsula Youtube](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/youtube.png)](https://www.youtube.com/watch?v=IMMxL6rDj3A)
 
 
 My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/pavel-mavrin-developer/)
