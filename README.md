@@ -1,4 +1,4 @@
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/capsula-business.jpg)
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/capsula-fluid.jpg)
 
 # About
 
@@ -34,7 +34,7 @@ The mobile application is designed to support connecting new models of air purif
 
 ![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPad-2.png)
 
-## Youtube Video
+## Watch on Youtube
 
 [![Capsula Youtube](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/youtube.png)](https://www.youtube.com/watch?v=IMMxL6rDj3A)
 
