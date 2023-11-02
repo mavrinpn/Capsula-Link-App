@@ -1,8 +1,8 @@
-[![Capsula Youtube](https://img.youtube.com/vi/IMMxL6rDj3A/0.jpg)](https://www.youtube.com/watch?v=IMMxL6rDj3A)
+[![Capsula Youtube](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/youtube.png)](https://www.youtube.com/watch?v=IMMxL6rDj3A)
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPhone-1.png)
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPhone-1.png)
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPhone-2.png)
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPhone-2.png)
 
 # About
 
@@ -32,9 +32,9 @@ The mobile application is designed to support connecting new models of air purif
 
 ## Supports iPad
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPad-1.png)
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPad-1.png)
 
-![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/Capsula-Link-iPad-2.png)
+![Capsula Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/Capsula-Link-iPad-2.png)
 
 
 My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/pavel-mavrin-developer/)
