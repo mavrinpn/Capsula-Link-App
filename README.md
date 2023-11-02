@@ -16,6 +16,8 @@ The mobile application is designed to support connecting new models of air purif
 
 - App published at [App Store](https://apps.apple.com/en/app/capsula-link/id1602496108)
 
+![AppStore Link](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/AppStore.png)
+
 ## Other Features
 
 - Localization according to System Locale
